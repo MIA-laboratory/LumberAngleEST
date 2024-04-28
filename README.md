@@ -1,3 +1,5 @@
+This software was created by MATLAB 2022a.
+
 1.	Specify   the center of the spinal canal and the spinous process in the axial section image of the third lumbar vertebra, thereby creating a reference line for the angle;
 2.	The axial section image is converted to a coronal section image, and the range is set so that the first to the fifth lumbar vertebrae are included in the image;
 3.	Cut out the set area in the plane perpendicular to the created reference line;
